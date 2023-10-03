@@ -1,4 +1,4 @@
-package tarefas;
+package collections.list.tarefas;
 
 public class Tarefa {
 

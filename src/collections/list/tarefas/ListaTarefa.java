@@ -1,4 +1,4 @@
-package tarefas;
+package collections.list.tarefas;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -39,13 +39,13 @@ public class ListaTarefa {
 
         System.out.println("O numero total de elementos na lista é: " + listaTarefa.obterNumeroTotalTarefas());
 
-        listaTarefa.adicionarTarefa("tarefas.Tarefa 1");
-        listaTarefa.adicionarTarefa("tarefas.Tarefa 3");
-        listaTarefa.adicionarTarefa("tarefas.Tarefa 2");
+        listaTarefa.adicionarTarefa("collections.list.tarefas.Tarefa 1");
+        listaTarefa.adicionarTarefa("collections.list.tarefas.Tarefa 3");
+        listaTarefa.adicionarTarefa("collections.list.tarefas.Tarefa 2");
 
         System.out.println("O numero total de elementos na lista é: " + listaTarefa.obterNumeroTotalTarefas());
 
-        listaTarefa.removerTarefa("tarefas.Tarefa 2");
+        listaTarefa.removerTarefa("collections.list.tarefas.Tarefa 2");
 
         System.out.println("O numero total de elementos na lista é: " + listaTarefa.obterNumeroTotalTarefas());
 

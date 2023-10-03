@@ -1,4 +1,4 @@
-package soma;
+package collections.list.soma;
 
 import java.util.ArrayList;
 import java.util.List;

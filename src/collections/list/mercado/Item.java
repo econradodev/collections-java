@@ -1,4 +1,4 @@
-package mercado;
+package collections.list.mercado;
 
 public class Item {
 

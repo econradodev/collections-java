@@ -1,6 +1,4 @@
-package mercado;
-
-import tarefas.Tarefa;
+package collections.list.mercado;
 
 import java.util.ArrayList;
 import java.util.List;
